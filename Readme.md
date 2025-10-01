@@ -5,7 +5,7 @@
 **This project has a [Code of Conduct].**
 
 ## Table of contents
-#FORK PRACTICING
+## FORK PRACTICING
 
 - [Table of contents](#table-of-contents)
 - [Installation](#installation)
